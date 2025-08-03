@@ -1,0 +1,30 @@
+# R specific
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Markdown/Notebook outputs
+*.html
+*.nb.html
+*.pdf
+*.docx
+
+# Plot caches (optional)
+*.svg
+*.eps
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE-specific
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
